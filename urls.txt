@@ -1,0 +1,2 @@
+http://www.example.org
+http://www.dmoz.org

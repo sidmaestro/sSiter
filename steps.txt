@@ -1,0 +1,6 @@
+0. check if scrapy is installed by typing scrapy version at the command line
+1. enter the links to be scraped in the file urls.txt one below the other
+2. goto the same project folder using the command line
+3. type the following "scrapy crawl scraper -a fileName=urls.txt"
+4. goto the folder called urls inside the current folder. for each link, there would be a folder with scraped data inside.
+5. enjoy !
